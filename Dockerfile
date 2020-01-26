@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.11
 
 COPY GeoLite2-Country.mmdb /usr/share/geoip/
 
